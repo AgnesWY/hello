@@ -1,0 +1,5 @@
+node_modules/
+# git repo作为安装地址
+dist/
+
+.history
